@@ -17,7 +17,8 @@ export const PROJECTS_DATA = [
         "task": "Select plant species",
         "status": "onHold"
       }
-    ]
+    ],
+    "name": "Updated Project"
   },
   {
     "id": 2,
@@ -86,6 +87,31 @@ export const PROJECTS_DATA = [
     "id": 6,
     "title": "dvs",
     "type": "residential",
+    "microtasks": []
+  },
+  {
+    "id": 7,
+    "name": "New Project",
+    "microtasks": []
+  },
+  {
+    "id": 8,
+    "name": "New Project",
+    "microtasks": []
+  },
+  {
+    "id": 9,
+    "name": "New Project",
+    "microtasks": []
+  },
+  {
+    "id": 10,
+    "name": "New Project",
+    "microtasks": []
+  },
+  {
+    "id": 11,
+    "name": "New Project",
     "microtasks": []
   }
 ];
