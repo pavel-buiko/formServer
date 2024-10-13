@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "server": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "fs": "^0.0.1-security",
+    "nodemon": "^3.1.7",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "@flydotio/dockerfile": "^0.5.9"
+  }
+}
